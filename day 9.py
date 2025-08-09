@@ -19,7 +19,7 @@ for i in range(1,rows+1):
 #  *   *
 #    *
 #    *
-   *
+#    *
 rows=5
 mid=(rows//2)+1
 for i in range(1,rows+1):
